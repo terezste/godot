@@ -1,7 +1,7 @@
 [gd_scene load_steps=31 format=3 uid="uid://dih2fev7txavo"]
 
 [ext_resource type="Texture2D" uid="uid://behuac8qbakv5" path="res://Free/Main Characters/Mask Dude/Jump (32x32).png" id="1_dcedo"]
-[ext_resource type="Script" path="res://mc.gd" id="1_ice6b"]
+[ext_resource type="Script" uid="uid://c21dda6o71q7" path="res://mc.gd" id="1_ice6b"]
 [ext_resource type="Texture2D" uid="uid://0xr1k8u27hxk" path="res://Free/Main Characters/Mask Dude/Idle (32x32).png" id="2_t7l7i"]
 [ext_resource type="Texture2D" uid="uid://dk7vb11ek3wkg" path="res://Free/Main Characters/Mask Dude/Run (32x32).png" id="4_0ndws"]
 
